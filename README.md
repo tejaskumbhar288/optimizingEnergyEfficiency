@@ -28,7 +28,10 @@ This project aims to optimize electricity consumption at the National Institute 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 - [MongoDB](https://www.mongodb.com/try/download/community)
+
+
 
 ### Installation
 
